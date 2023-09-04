@@ -16,7 +16,7 @@ Developed by : sarvesh
 RegisterNumber:212222230135
 import numpy as np
 import pandas as pd
-df=pd.read_csv('student_scores.csv')
+df=pd.read_csv('/content/student_scores.csv')
 X=df.iloc[:,:-1].values
 Y=df.iloc[:,1].values
 print("X=",X)
