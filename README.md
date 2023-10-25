@@ -46,7 +46,6 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
-![Screenshot 2023-09-04 161835](https://github.com/sarveshjustin/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497481/4de10e5d-e336-4237-acc8-e97bbcd40879)
 ## Output:
 ![Screenshot 2023-09-04 161711](https://github.com/sarveshjustin/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497481/74c45663-f10d-41f3-a6f0-6cf23db12e8b)
 ![Screenshot 2023-09-04 161723](https://github.com/sarveshjustin/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497481/c7c31240-d94d-4e9e-9071-e88d76cfa6b3)
